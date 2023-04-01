@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "app.user.jwt.tokenPrefix",
+    "type": "java.lang.String",
+    "description": "A description for 'app.user.jwt.tokenPrefix'"
+  },
+  {
+    "name": "app.user.jwt.tokenExpirationAfterDays",
+    "type": "java.lang.String",
+    "description": "A description for 'app.user.jwt.tokenExpirationAfterDays'"
+  }
+]}
